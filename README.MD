@@ -9,7 +9,7 @@ This project is a homework assignment to teach how to get Pycharm setup with Doc
 # Postman Screenshot
 
 #SQL Screenshot
-
+![Pycharm_Data_Query](screenshots/query.png)
 
 
 
